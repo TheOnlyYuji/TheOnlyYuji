@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- TheOnlyYuji -->
 
-<!--
-**TheOnlyYuji/TheOnlyYuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Yuji!</h1>
+<p align="center">
+  <img src="https://github.com/TheOnlyYuji.png" width="120" alt="Yuji's avatar"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Welcome to my GitHub profile!</b><br>
+  <i>Passionate about coding, learning, and building cool things.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 👨‍🎓 I’m interested in **open source, automation, and cloud technologies**
+- 💡 Always exploring new frameworks and tools
+- 🚀 Currently working on personal and collaborative projects
+- 🌱 Learning more about **full-stack development** and **DevOps**
+
+---
+
+### 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOnlyYuji&show_icons=true&theme=tokyonight" alt="Yuji's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyYuji&layout=compact&theme=tokyonight" alt="Yuji's top languages" height="180"/>
+</p>
+
+---
+
+### 📫 How to reach me
+
+- Twitter: [@TheOnlyYuji](https://twitter.com/TheOnlyYuji)
+- Email: your.email@example.com
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheOnlyYuji&theme=onedark&column=7"/>
+</p>
