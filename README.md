@@ -3,7 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yuji;I'm+Learning+Coding+" alt="Typing SVG" /></a> </p>
 
   
-                                             <img           src="https://files.catbox.moe/k91nuy.jpg" width="120" alt="Yuji's avatar"/>
+                                             <img
+src="https://files.catbox.moe/k91nuy.jpg" width="120" alt="Yuji's avatar"/>
 </p>
 
 <p align="center">
