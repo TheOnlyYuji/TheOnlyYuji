@@ -1,10 +1,15 @@
 <!-- TheOnlyYuji -->
+<!-- Profile README for TheOnlyYuji -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yuji;I'm+Learning+Coding+" alt="Typing SVG" /></a> </p
+<h1 align="center">Hi 👋, I'm Yuji!</h1>
+<p align="center">
+  <img src="https://i.ibb.co/1fXQQDym/temp.jpg" width="120" alt="Yuji's avatar"/>
+</p>
 
 <p align="center">
   <b>Welcome to my GitHub profile!</b><br>
   <i>Passionate about coding, learning, and building cool things.</i>
+</p>
 
 ---
 
