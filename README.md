@@ -1,9 +1,8 @@
-<!-- TheOnlyYuji -->
 <!-- Profile README for TheOnlyYuji -->
 
-<h1 align="center">https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yuji;I'm+Learning+Coding+ alt="Typing SVG" /></a> </p></h1>
+<h1 align="center">Hi 👋, I'm Yuji!</h1>
 <p align="center">
-  <img src="https://i.ibb.co/1fXQQDym/temp.jpg" width="120" alt="Yuji's avatar"/>
+  <img src="https://github.com/TheOnlyYuji.png" width="120" alt="Yuji's avatar"/>
 </p>
 
 <p align="center">
@@ -37,9 +36,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheOnlyYuji&show_icons=true&theme=dark" alt="Yuji's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyYuji&layout=compact&theme=dark" alt="Yuji's top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOnlyYuji&show_icons=true&theme=tokyonight" alt="Yuji's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyYuji&layout=compact&theme=tokyonight" alt="Yuji's top languages" height="180"/>
 </p>
+
+---
+
+### 📫 How to reach me
+
+- Twitter: [@TheOnlyYuji](https://twitter.com/TheOnlyYuji)
+- Email: your.email@example.com
 
 ---
 
