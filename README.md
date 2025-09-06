@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheOnlyYuji&show_icons=true&theme=tokyonight" alt="Yuji's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOnlyYuji&show_icons=true&theme=dark" alt="Yuji's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnlyYuji&layout=compact&theme=dark" alt="Yuji's top languages" height="180"/>
 </p>
 
