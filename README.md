@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yuji!</h1>
 <p align="center">
-  <img src="https://github.com/TheOnlyYuji.png" width="120" alt="Yuji's avatar"/>
+  <img src="https://i.ibb.co/1fXQQDym/temp.jpg" width="120" alt="Yuji's avatar"/>
 </p>
 
 <p align="center">
