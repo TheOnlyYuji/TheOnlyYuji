@@ -5,7 +5,6 @@
 <p align="center">
   <b>Welcome to my GitHub profile!</b><br>
   <i>Passionate about coding, learning, and building cool things.</i>
-</p>
 
 ---
 
