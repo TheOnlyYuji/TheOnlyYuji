@@ -1,6 +1,6 @@
 <!-- Profile README for TheOnlyYuji -->
 
-<h1 align="center">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&width=435&lines=Hi+I'm+Yuji+I'm+Learning+Coding)](https://git.io/typing-svg) </h1>
+<h1 align="center">Hi 👋 I'm Yuji !/h1>
 <p align="center">
   <img src="https://i.ibb.co/1fXQQDym/temp.jpg" width="120" alt="Yuji's avatar"/>
 </p>
