@@ -1,6 +1,6 @@
 <!-- Profile README for TheOnlyYuji -->
 
-<h1 align="center">Hi 👋 I'm Yuji !/h1>
+<h1 align="center">Hi 👋 I'm Yuji ! /h1>
 <p align="center">
   <img src="https://i.ibb.co/1fXQQDym/temp.jpg" width="120" alt="Yuji's avatar"/>
 </p>
