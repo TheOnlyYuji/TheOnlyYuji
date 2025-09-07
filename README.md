@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&width=435&lines=Hi+I'm+Yuji+I'm+Learning+Coding)](https://git.io/typing-svg)
 
-  <img src="https://i.ibb.co/1fXQQDym/temp.jpg" width="120" alt="Yuji's avatar"/>
-</p>
-
 <p align="center">
   <b>Welcome to my GitHub profile!</b><br>
   <i>Passionate about coding, learning, and building cool things.</i>
