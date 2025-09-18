@@ -50,5 +50,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheOnlyYuji&theme=onedark&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheOnlyYuji&theme=radical&column=7"/>
 </p>
