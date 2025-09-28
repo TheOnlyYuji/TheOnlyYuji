@@ -44,8 +44,7 @@
 
 ### 📫 How to reach me
 
-- Twitter: [@TheOnlyYuji](https://twitter.com/TheOnlyYuji)
-- Email: your.email@example.com
+- Telegram : [@LightYagamii_89](https://t.me/LightYagamii_89)
 
 ---
 
